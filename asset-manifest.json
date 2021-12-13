@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//pavel-sheremet-dev.github.io/react-train/static/css/main.bab0b925.chunk.css",
+    "main.js": "//pavel-sheremet-dev.github.io/react-train/static/js/main.690e6d24.chunk.js",
+    "main.js.map": "//pavel-sheremet-dev.github.io/react-train/static/js/main.690e6d24.chunk.js.map",
+    "runtime-main.js": "//pavel-sheremet-dev.github.io/react-train/static/js/runtime-main.e752ea12.js",
+    "runtime-main.js.map": "//pavel-sheremet-dev.github.io/react-train/static/js/runtime-main.e752ea12.js.map",
+    "static/js/2.2e81defc.chunk.js": "//pavel-sheremet-dev.github.io/react-train/static/js/2.2e81defc.chunk.js",
+    "static/js/2.2e81defc.chunk.js.map": "//pavel-sheremet-dev.github.io/react-train/static/js/2.2e81defc.chunk.js.map",
+    "index.html": "//pavel-sheremet-dev.github.io/react-train/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "//pavel-sheremet-dev.github.io/react-train/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.2e81defc.chunk.js.LICENSE.txt": "//pavel-sheremet-dev.github.io/react-train/static/js/2.2e81defc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e752ea12.js",
+    "static/js/2.2e81defc.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.690e6d24.chunk.js"
+  ]
+}
